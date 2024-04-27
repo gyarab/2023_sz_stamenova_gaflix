@@ -1,0 +1,11 @@
+{% extends 'movies/base.html' %}
+{% block 'title' %}Second | {{ block.super }}{% endblock %}
+
+{% block 'content' %}
+    <h1>Second template</h1>
+    <ul>
+        <li>One</li>
+        <li>Two</li>
+        <li>Three</li>
+    </ul>
+{% endblock %}
