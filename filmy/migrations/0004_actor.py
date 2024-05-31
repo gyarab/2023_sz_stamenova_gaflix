@@ -20,4 +20,19 @@ class Migration(migrations.Migration):
                 ('main_picture', models.ImageField(blank=True, null=True, upload_to='')),
             ],
         ),
+     migrations.AddField(
+            model_name='movie',
+            name='director',
+            field=models.ForeignKey(blank=True, null=True, on_delete=django.db.models.deletion.SET_NULL, to='filmy.director'),
+        ),
+        migrations.AddField(
+            model_name='movie',
+            name='genres',
+            field=models.ManyToManyField(blank=True, to='filmy.genre'),
+        ),
+        migrations.AddField(
+            model_name='movie',
+            name='actors',
+            field=models.ManyToManyField(blank=True, to='filmy.actor'),
+        ),
     ]
