@@ -3,7 +3,7 @@
       "model": "filmy.genre",
       "pk": 1,
       "fields": {
-        "name": "Akční"
+        "name": "Action"
       }
     },
     {
@@ -17,35 +17,35 @@
       "model": "filmy.genre",
       "pk": 3,
       "fields": {
-        "name": "Animovaný"
+        "name": "Animated"
       }
     },
     {
       "model": "filmy.genre",
       "pk": 4,
       "fields": {
-        "name": "Dobrodružný"
+        "name": "Adventure"
       }
     },
     {
       "model": "filmy.genre",
       "pk": 5,
       "fields": {
-        "name": "Rodinný"
+        "name": "Family"
       }
     },
     {
       "model": "filmy.genre",
       "pk": 6,
       "fields": {
-        "name": "Komedie"
+        "name": "Comedy"
       }
     },
     {
       "model": "filmy.genre",
       "pk": 7,
       "fields": {
-        "name": "Krimi"
+        "name": "Crimi"
       }
     },
     {

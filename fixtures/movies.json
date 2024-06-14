@@ -6,7 +6,7 @@
         "name": "Top Gun: Maverick",
         "year": 2022,
         "footage": null,
-        "description": "Pete „Maverick“ Mitchell (Tom Cruise) k smrti rád pilotuje stíhačky. Dokonce tak, že se už přes třicet let úspěšně brání povýšení ve strukturách amerického letectva, protože to by ho z kokpitu vyhnalo do vyhřáté kanceláře. Maverick byl navíc vždycky magnetem na průšvihy, což se s armádní kariérou taky docela vylučuje.",
+        "description": "Top Gun: Maverick is a 2022 American action drama film directed by Joseph Kosinski and written by Ehren Kruger, Eric Warren Singer, and Christopher McQuarrie from stories by Peter Craig and Justin Marks. The film is a sequel to the 1986 film Top Gun. Tom Cruise reprises his starring role as the naval aviator Maverick. It is based on the characters of the original film created by Jim Cash and Jack Epps Jr. It also stars Miles Teller, Jennifer Connelly, Jon Hamm, Glen Powell, Monica Barbaro, Lewis Pullman, Ed Harris and Val Kilmer, who reprises his role as Iceman. The story involves Maverick confronting his past while training a group of younger Top Gun graduates, including the son of his deceased best friend, for a dangerous mission.",
         "main_picture": "//image.pmgstatic.com/cache/resized/w663/files/images/film/posters/166/205/166205318_28cfab.jpg",
         "director": 1,
         "actors": [
@@ -22,11 +22,11 @@
       "model": "filmy.movie",
       "pk": 2,
       "fields": {
-        "name": "Shrek",
-        "year": 2001,
+        "name": "Cars",
+        "year": 2006,
         "footage": null,
-        "description": "Odvážný Shrek (Mike Myers) pátrá se svým kamarádem, sympatickým a chvastounským oslem (Eddie Murphy) po krásné a divoké princezně Fioně (Cameron Diaz). Za její záchranu chce od intrikána Lorda Farquadda (John Lithgow) získat zpět svou milovanou bažinu.",
-        "main_picture": "//image.pmgstatic.com/cache/resized/w663/files/images/film/posters/158/600/158600745_6cc2db.jpg",
+        "description": "Cars is a 2006 American animated sports comedy film produced by Pixar Animation Studios and distributed by Walt Disney Pictures. The film was directed by John Lasseter, co-directed by Joe Ranft, produced by Darla K. Anderson, written by Lasseter, Ranft, Dan Fogelman, Kiel Murray, Phil Lorin, and Jorgen Klubien based on a story by Lasseter, Ranft, and Klubien, and stars an ensemble voice cast of Owen Wilson, Paul Newman (in his final voice acting theatrical film role), Bonnie Hunt, Larry the Cable Guy, Tony Shalhoub, Cheech Marin, Michael Wallis, George Carlin, Paul Dooley, Jenifer Lewis, Guido Quaroni, Michael Keaton, Katherine Helmond, John Ratzenberger and Richard Petty, while race car drivers Dale Earnhardt Jr. (as Junior), Mario Andretti, Michael Schumacher and car enthusiast Jay Leno (as Jay Limo) voice themselves.",
+        "main_picture": "https://m.media-amazon.com/images/M/MV5BMTg5NzY0MzA2MV5BMl5BanBnXkFtZTYwNDc3NTc2._V1_FMjpg_UX1000_.jpg",
         "director": 2,
         "actors": [],
         "genres": [
@@ -41,10 +41,10 @@
       "model": "filmy.movie",
       "pk": 3,
       "fields": {
-        "name": "Pulp Fiction: Historky z podsvětí",
+        "name": "Pulp Fiction",
         "year": 1994,
         "footage": null,
-        "description": "Nejkultovnější z kultovních filmů 90. let je autorskou Biblí Quentina Tarantina, který v tomto opusu definoval základní prvky své režisérské poetiky a vytvořil dílo rozněcující náročné kritiky na festivalu v Cannes, levicové a pravicové intelektuály i zedníky dopřávající si po těžké šichtě trochu oddychu.",
+        "description": "Pulp Fiction is a 1994 American independent crime film written and directed by Quentin Tarantino from a story he conceived with Roger Avary. It tells four intertwining tales of crime and violence in Los Angeles, California. The film stars John Travolta, Samuel L. Jackson, Bruce Willis, Tim Roth, Ving Rhames, and Uma Thurman. The title refers to the pulp magazines and hardboiled crime novels popular during the mid-20th century, known for their graphic violence and punchy dialogue.",
         "main_picture": "//image.pmgstatic.com/cache/resized/w663/files/images/film/posters/158/336/158336635_61bc7c.jpg",
         "director": 3,
         "actors": [],
@@ -61,9 +61,9 @@
         "name": "Fight Club",
         "year": 1999,
         "footage": null,
-        "description": "Když nemůžete půl roku usnout, celý okolní svět vám začne připadat jako nekonečný sen. Všechno kolem vás je nedokonalou xeroxovou kopií sebe sama. Chodíte do práce, díváte se na televizi a jste vděčni za to, když občas ztratíte vědomí a nevíte o světě. Lidí s podobnými problémy moc není, ale mladý úspěšný úředník, který si říká Jack, je jedním z nich. Má slušnou práci, vydělává slušné peníze, ale trpí nejtěžší formou nespavosti. Na služební cestě se Jack seznámí s Tylerem Durdenem, který mu nabídne příbytek pod podmínkou, že mu vrazí pořádnou ránu. Tato \"výměna názorů\" se oběma zalíbí a brzy vznikne první Klub rváčů. Místo, kde můžou mladí muži, znechucení světem, odložit své starosti a stát se na pár minut zvířaty.",
+        "description": "Fight Club is a 1999 American film directed by David Fincher, and starring Brad Pitt, Edward Norton and Helena Bonham Carter. It is based on the 1996 novel by Chuck Palahniuk. Norton plays the unnamed narrator, who is discontented with his white-collar job. He forms a fight club with soap salesman Tyler Durden (Pitt), and becomes embroiled in a relationship with an impoverished but beguilingly attractive woman, Marla Singer (Bonham Carter).",
         "main_picture": "//image.pmgstatic.com/cache/resized/w663/files/images/film/posters/162/468/162468180_3e343f.jpg",
-        "director": null,
+        "director": 4,
         "actors": [
           1
         ],
@@ -77,16 +77,15 @@
       "model": "filmy.movie",
       "pk": 5,
       "fields": {
-        "name": "Samotáři",
-        "year": 2000,
-        "footage": null,
-        "description": "Sedm mladých lidí ve věku od 23 do 33 let se na konci devadesátých let ve velkém městě pokouší praktikovat cosi, čemu se dříve říkalo milostný vztah. A tak na sebe milostně narážejí a nechávají se unášet napříč dlouhodobějšími či krátkodobějšími vztahy, které je dovedou zpět do samoty. Robert pracuje v cestovní kanceláři a rád rozplétá a splétá osudy lidí. Napomůže rozchodu Hanky a Petra, který se pokouší pochopit život skrze nahrávky „opravdového života“ pouštěné do éteru. Zatímco je Hanka pronásledována Ondřejem, do té doby uznávaným lékařem a otcem rodiny, seznamuje se s Jakubem, jehož pozitivnímu pohledu na svět pomáhá pravidelné užívání marihuany. Na druhé straně to ale způsobuje zhoršování jeho krátkodobé paměti, takže se v jejich vztahu objevují problémy. Zklamaná Hanka hledá pochopení u rodičů, ale doma najde jen dvacet Japonců sledujících „normální rodinku při normální večeři“.",
-        "main_picture": "//image.pmgstatic.com/cache/resized/w663/files/images/film/posters/158/305/158305223_c64891.jpg",
-        "director": null,
+        "name": "Inception",
+        "year": 2010,
+        "footage": 5,
+        "description": "Inception is a 2010 science fiction action film[4][5][6] written and directed by Christopher Nolan, who also produced it with Emma Thomas, his wife. The film stars Leonardo DiCaprio as a professional thief who steals information by infiltrating the subconscious of his targets. He is offered a chance to have his criminal history erased as payment for the implantation of another person's idea into a target's subconscious. The ensemble cast includes Ken Watanabe, Joseph Gordon-Levitt, Marion Cotillard, Elliot Page,[a] Tom Hardy, Cillian Murphy, Tom Berenger, Dileep Rao, and Michael Caine.",
+        "main_picture": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg",
+        "director": 5,
         "actors": [],
         "genres": [
-          6,
-          2
+          1
         ]
       }
     }

@@ -5,7 +5,7 @@
       "fields": {
         "name": "Joseph Kosinski",
         "birth_year": 1974,
-        "description": "",
+        "description": "Joseph Kosinski is a director whose uncompromising style has quickly made a mark in the filmmaking zeitgeist. His four theatrical releases have grossed $2.2 billion worldwide and been nominated for 7 Academy Awards and 2 Grammys.",
         "main_picture": ""
       }
     },
@@ -15,7 +15,7 @@
       "fields": {
         "name": "Andrew Adamson",
         "birth_year": 1966,
-        "description": "",
+        "description": "Andrew Adamson (* 1. prosince 1966 Auckland) je novozélandský režisér. Proslavil se zejména natočením animované komedie Shrek. Jeho dalším režijním počinem byla nová filmová verze známého díla irského spisovatele C. S. Lewise Letopisy Narnie – Lev, čarodějnice a skříň, Princ Kaspian a Plavba jitřního poutníka. Roku 2012 natočil film Pan Pip s Hughem Lauriem v hlavní roli.",
         "main_picture": ""
       }
     },
@@ -25,7 +25,7 @@
       "fields": {
         "name": "Quentin Tarantino",
         "birth_year": 1963,
-        "description": "",
+        "description": "Quentin Jerome Tarantino was born in Knoxville, Tennessee. His father, Tony Tarantino, is an Italian-American actor and musician from New York, and his mother, Connie (McHugh), is a nurse from Tennessee. Quentin moved with his mother to Torrance, California, when he was four years old.",
         "main_picture": ""
       }
     },
@@ -35,8 +35,18 @@
       "fields": {
         "name": "David Fincher",
         "birth_year": 1962,
-        "description": "",
+        "description": "David Fincher was born in 1962 in Denver, Colorado, and was raised in Marin County, California. When he was 18 years old he went to work for John Korty at Korty Films in Mill Valley. He subsequently worked at ILM (Industrial Light and Magic) from 1981-1983. Fincher left ILM to direct TV commercials and music videos after signing with N. Lee Lacy in Hollywood. He went on to found Propaganda in 1987 with fellow directors Dominic Sena, Greg Gold and Nigel Dick. ",
         "main_picture": ""
       }
-    }
-  ]
+    },
+    {
+        "model": "filmy.director",
+        "pk": 5,
+        "fields": {
+          "name": "Christopher Nolan",
+          "birth_year": 1962,
+          "description": "Best known for his cerebral, often nonlinear, storytelling, acclaimed Academy Award winner writer/director/producer Sir Christopher Nolan CBE was born in London, England. Over the course of more than 25 years of filmmaking, Nolan has gone from low-budget independent films to working on some of the biggest blockbusters ever made and became one of the most celebrated filmmakers of modern cinema.",
+          "main_picture": ""
+        }
+      }
+]

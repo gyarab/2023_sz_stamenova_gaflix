@@ -5,7 +5,7 @@
         "fields": {
             "name": "Brad Pitt",
             "birth_year": 1963,
-            "description": "Od začátku devadesátých let přitahuje pozornost diváků i médií, ale protože nehýří informacemi ani aférami ze svého soukromí, nezbývá, než si přiznat, že Pitta téměř neznáme.   I když dnes nikdo nepochybuje o jeho hereckém talentu, nezapomene přitom ani okomentovat jeho vzhled. Tu tvář už Pittovi nikdo neodpáře, ačkoli tvrdí: „Kašlu na to jak vypadám, a celá ta hysterie okolo mne už mi leze krkem...",
+            "description": "William Bradley Pitt (born December 18, 1963) is an American actor and film producer. He is the recipient of various accolades, including two Academy Awards, two British Academy Film Awards, two Golden Globe Awards, and a Primetime Emmy Award. One of the most influential celebrities, Pitt appeared on Forbes' annual Celebrity 100 list from 2006 to 2008, and the Time 100 list in 2007.",
             "main_picture": "//image.pmgstatic.com/cache/resized/w100h132crop/files/images/creator/photos/159/168/159168406_ea0e56.jpg"
         }
     },
@@ -15,8 +15,39 @@
         "fields": {
             "name": "Tom Cruise",
             "birth_year": 1962,
-            "description": "Největší hitmaker v Hollywoodu, v takové pozici se už roky nachází herecká hvězda Tom Cruise, herec, jenž se narodil v kočovné rodině, která se neustále stěhovala kvůli práci jeho otce (inženýra). Kvůli stěhování měl problémy s učením, které byly spojeny s jeho dyslexií a tak vynikal pouze ve sportu. Po dokončení střední školy se v roce 1980 odhodlal pro hereckou kariéru. Jako většina herců začínal v divadle a v menších rolích v divácky celkem úspěšných filmech…",
+            "description": "Thomas Cruise Mapother IV (born July 3, 1962) is an American actor and producer. Regarded as a Hollywood icon,[1][2][3] he has received various accolades, including an Honorary Palme d'Or and three Golden Globe Awards, in addition to nominations for four Academy Awards. His films have grossed over $4 billion in North America and over $11.5 billion worldwide,[4] making him one of the highest-grossing box-office stars of all time.[5] He is consistently one of the world's highest-paid actors.",
+            "main_picture": "//image.pmgstatic.com/cache/resized/w100h132crop/files/images/creator/photos/166/432/166432435_af1fc8.jpg"
+        }
+    },
+    {
+        "model": "filmy.actor",
+        "pk": 3,
+        "fields": {
+            "name": "Dwayne Johnson",
+            "birth_year": 1972,
+            "description": "Dwayne Douglas Johnson (* 2. května 1972, Hayward, Kalifornie, USA), také známý pod svoji zápasnickou přezdívkou „The Rock“, je americký herec, producent, zpěvák a profesionální wrestler (po vzoru svého otce a dědy), který v současnosti opět působí ve WWE.",
+            "main_picture": "//image.pmgstatic.com/cache/resized/w100h132crop/files/images/creator/photos/166/432/166432435_af1fc8.jpg"
+        }
+    },
+    {
+        "model": "filmy.actor",
+        "pk": 4,
+        "fields": {
+            "name": "Ryan Reynolds",
+            "birth_year": 1976,
+            "description": "Ryan Rodney Reynolds OBC (born October 23, 1976) is a Canadian and American actor, producer, and businessman. He began his career starring in the Canadian teen soap opera Hillside (1991–1993) and had minor roles before landing the lead role on the sitcom Two Guys and a Girl between 1998 and 2001. Reynolds then starred in a range of films, including comedies such as National Lampoon's Van Wilder (2002), Waiting... (2005), and The Proposal (2009). He also performed in dramatic roles in Buried (2010), Woman in Gold (2015), and Life (2017).",
+            "main_picture": "//image.pmgstatic.com/cache/resized/w100h132crop/files/images/creator/photos/166/432/166432435_af1fc8.jpg"
+        }
+    },
+    {
+        "model": "filmy.actor",
+        "pk": 5,
+        "fields": {
+            "name": "Jennifer Aniston",
+            "birth_year": 1969,
+            "description": "Jennifer Joanna Aniston (born February 11, 1969) is an American actress. She rose to international fame for her role as Rachel Green on the television sitcom Friends from 1994 to 2004, which earned her Primetime Emmy, Golden Globe, and Screen Actors Guild awards. Since her career progressed in the 1990s, Aniston has consistently ranked among the world's highest-paid actresses, as of 2023.",
             "main_picture": "//image.pmgstatic.com/cache/resized/w100h132crop/files/images/creator/photos/166/432/166432435_af1fc8.jpg"
         }
     }
+
 ]
